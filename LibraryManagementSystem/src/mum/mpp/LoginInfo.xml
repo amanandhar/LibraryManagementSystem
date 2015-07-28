@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<username>adam</username>
+		<password>manandhar</password>
+		<role>librarian</role>
+	</user>
+	<user>
+		<username>adarsh</username>
+		<password>bhattarai</password>
+		<role>administrator</role>
+	</user>
+	<user>
+		<username>cimos</username>
+		<password>pokhrel</password>
+		<role>both</role>
+	</user>
+</users>
